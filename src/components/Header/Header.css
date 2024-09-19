@@ -1,3 +1,7 @@
-.header a {
+nav a {
     margin-left: 20px;
+}
+nav a.active{
+    text-decoration: underline;
+    color: aliceblue;
 }
